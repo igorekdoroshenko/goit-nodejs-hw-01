@@ -138,3 +138,8 @@ node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 Название переменных, свойств и методов записано в нотации СamelCase. Используются английские слова, названия функций и методов содержат глагол
 В коде нет закомментированных участков кода
 Проект корректно работает с актуальной LTS-версией Node
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
